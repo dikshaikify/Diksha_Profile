@@ -197,12 +197,13 @@ Building intelligent systems and solving real-world problems with Machine Learni
 
 ---
 
-# 🐍 Contribution Snake Animation
+
+<!-- Contribution Snake -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/dikshaikify/Diksha_Profile/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 # 💬 Random Developer Quote
