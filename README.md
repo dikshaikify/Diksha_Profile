@@ -144,7 +144,67 @@ Building intelligent systems and solving real-world problems with Machine Learni
 ---
 
 # 🧠 Coding Practice
+<!-- Competitive Programming Stats -->
 
+<h1 align="center">🏆 Competitive Programming</h1>
+
+<p align="center">
+Practice Data Structures, Algorithms and Problem Solving across multiple platforms
+</p>
+
+---
+
+<h2 align="center">💻 LeetCode</h2>
+
+<p align="center">
+<a href="https://leetcode.com/u/nPOZbiKXEZ/">
+<img src="https://leetcard.jacoblin.cool/nPOZbiKXEZ?theme=dark&font=Baloo&ext=contest"/>
+</a>
+</p>
+
+---
+
+<h2 align="center">🍽 CodeChef</h2>
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/dikshakoppad">
+<img src="https://img.shields.io/badge/CodeChef-dikshakoppad-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">⚡ HackerRank</h2>
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/profile/dikshakoppad">
+<img src="https://img.shields.io/badge/HackerRank-dikshakoppad-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">🌍 Competitive Programming Profiles</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/nPOZbiKXEZ/">
+<img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/dikshakoppad">
+<img src="https://img.shields.io/badge/CodeChef-Visit%20Profile-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/dikshakoppad">
+<img src="https://img.shields.io/badge/HackerRank-Visit%20Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 ## 💻 LeetCode Stats
 
 <p align="center">
