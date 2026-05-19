@@ -251,9 +251,7 @@ Practice Data Structures, Algorithms and Problem Solving across multiple platfor
 
 # 📈 GitHub Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshaikify&theme=react-dark"/>
-</p>
+[![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshaikify&theme=github-dark)](https://github.com/dikshaikify)
 
 ---
 
